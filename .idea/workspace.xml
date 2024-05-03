@@ -1,20 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="fbcbaefa-1f8d-4cdc-a634-d6b7bd92142d" name="更改" comment="" />
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbcbaefa-1f8d-4cdc-a634-d6b7bd92142d" name="更改" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zwy/Shopping/Test/test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zwy/Shopping/connection/DBCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zwy/Shopping/connection/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zwy/Shopping/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zwy/Shopping/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zwy/Shopping/model/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zwy/Shopping/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zwy/Shopping/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zwy/Shopping/model/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zwy/Shopping/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zwy/Shopping/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shopping on Internet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Shopping on Internet.iml" afterDir="false" />
+    </list>
+>>>>>>> 5769035 (5月3日最后一次提交)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "zhou-ba-wang"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9b79a63f-06f0-4a5b-94a0-b4d513a3727f" />
+        <option name="url" value="https://github.com/zhou-ba-wang/Shopping_on_Internet.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+>>>>>>> 5769035 (5月3日最后一次提交)
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="2fwq0iAjwnycGqZPMH9QutGe0V0" />
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> 5769035 (5月3日最后一次提交)
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,12 +89,38 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+=======
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat 服务器.Tomcat 9.0.63.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/学习/wed应用开发/Shopping on Internet/lib/mysql-connector-java-8.0.13.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Test.executor": "Run",
+    "应用程序.test01.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\学习\wed应用开发\Shopping on Internet\lib" />
+    </key>
+  </component>
+>>>>>>> 5769035 (5月3日最后一次提交)
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -37,11 +129,71 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714722268265</updated>
+<<<<<<< HEAD
       <workItem from="1714722269388" duration="2000" />
     </task>
+=======
+      <workItem from="1714722269388" duration="10287000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1714722437357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714722437357</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1714722484171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714722484171</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1714722523777</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714722523777</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1714722590726</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714722590726</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+>>>>>>> 5769035 (5月3日最后一次提交)
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zwy/Shopping/model/Category.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Shopping_on_Internet$Tomcat_9_0_63.ic" NAME="Tomcat 9.0.63 覆盖结果" MODIFIED="1714729834365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+>>>>>>> 5769035 (5月3日最后一次提交)
 </project>
